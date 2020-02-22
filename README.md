@@ -1,2 +1,2 @@
-# car-game_c35
-used button thingy
+# synchronousBallMovement
+Ball moving synchronously
